@@ -30,6 +30,7 @@
 Разработка модулей для автоматизации работ на ASP.NET
 </li>
 </ul>
+
 ## О себе
 Закончила университет с красными дипломами.
 Изучала разные языки программирования (Python, C++, C#, JavaScript, PHP, HTML/CSS), ООП и методы оптимизации.
@@ -49,16 +50,17 @@
 
 
 ## Ключевые навыки
-Редактировать
-Python
-SQL
-Анализ данных
-Статистический анализ
-sklearn
-pandas
-numpy
-matplotlib
-PostgreSQL
+<ul>
+<li>Python</li>
+<li>SQL</li>
+<li>Анализ данных</li>
+<li>Статистический анализ</li>
+<li>Sklearn</li>
+<li>Pandas</li>
+<li>Numpy</li>
+<li>Matplotlib</li>
+<li>PostgreSQL</li>
+</ul>
 
 
 
