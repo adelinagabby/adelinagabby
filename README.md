@@ -3,6 +3,7 @@
 ## Контакты
 
 Почта: gabidullina.adelina@mail.ru
+<br>
 Телеграм: https://t.me/adelina_gabby
 
 ## Опыт работы 
