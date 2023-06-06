@@ -55,8 +55,6 @@
 <ul>
 <li>Python</li>
 <li>SQL</li>
-<li>Анализ данных</li>
-<li>Статистический анализ</li>
 <li>Sklearn</li>
 <li>Pandas</li>
 <li>Numpy</li>
