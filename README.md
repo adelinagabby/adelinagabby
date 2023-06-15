@@ -64,6 +64,8 @@
 <li>Numpy</li>
 <li>Matplotlib</li>
 <li>PostgreSQL</li>
+<li>Seaborn</li>
+<li>Git</li>
 </ul>
 
 
